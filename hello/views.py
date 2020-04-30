@@ -7,7 +7,7 @@ from .models import Greeting
 
 # Create your views here.
 def index(request):
-    return HttpResponse('Hello “ú–{Œê‚Ç‚¤‚¾')
+    return HttpResponse('Hello æ—¥æœ¬èªã©ã†ã ')
     #return render(request, "index.html")
 
 
